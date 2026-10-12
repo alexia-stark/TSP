@@ -1,4 +1,3 @@
-```markdown
 # TSP Solver - Berlin52 Dataset
 
 A Python-based interactive application for solving the **Traveling Salesperson Problem (TSP)** on benchmark datasets (such as Berlin52) using various metaheuristic algorithms. The project features a Command Line Interface (CLI) and real-time route visualization powered by **Pygame**.
@@ -150,5 +149,3 @@ Dacă după salvare faci din nou `git add README.md`, `git commit -m "Fix README
   <Elicitation label="Cum verific vizualizarea" query="Cum pot verifica cum arată README-ul direct în VS Code înainte de push?"/>
   <Elicitation label="Imaginile nu se încarcă" query="Ce fac dacă imaginile din tabelul de pe GitHub apar ca linkuri frânte?"/>
 </Elicitations>
-
-```
